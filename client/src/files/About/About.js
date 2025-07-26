@@ -9,10 +9,13 @@ const About = () => {
         <div className="about-content">
           <h2>About Me</h2>
           <p>
-           Hello👋, I'm Piyush Kumar, a pre-final year student at Indian Institute of Technology Ropar🏫.
-           <br/>
-           I'm into web development and competitive programming, along with a love for doing photography, editing, and graphic design.
+            Hello👋, I'm Piyush Kumar, a Software Engineer at Bharat Electronics Limited and a recent Computer Science graduate from the Indian Institute of Technology Ropar 🎓.
+            <br />
+            I have strong foundations in Data Structures and Algorithms, Problem Solving, Web Development, and Machine Learning.
+            <br />
+            Outside of tech, I’m passionate about photography, editing, and graphic design.
           </p>
+
           <div class="circular--portrait"> <img src={aboutImage} /> </div>
         </div>
       </div>

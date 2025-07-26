@@ -92,48 +92,32 @@ const Projects = () => {
               </a>
             </div>
           </div>
-
           <div className="project">
-            <h3> Airline Management System (AMS)</h3>
+            <h3>Rule-Based Quiz Generator - BTP Project, IIT Ropar </h3>
             <p>
-              The platform is designed to streamline airline operations by
-              efficiently managing customer data (add, edit, search) and
-              flight-related tasks (add, edit, delete flights, booking, and
-              canceling flights).
+              Developed an intelligent quiz generation system using Python, Flask, and algorithmic templates to create unique, concept-focused questions on digital logic topics. Features include distractor generation, difficulty weighting, dynamic image creation, and performance analytics. Deployed with a responsive frontend and tested by 60+ IIT Ropar students, receiving 96% positive feedback on quality and user experience.
+
+
             </p>
             <div className="buttons-container">
               <a
-                href="https://github.com/piuspk/airlines-database-management-system"
+                href="https://github.com/Rajkholwal/BTP-PROJECT"
                 className="btn-github"
               >
                 <FaGithub /> GitHub
               </a>
-              {/* <a href="#" className="btn-website">
+              {/* <a
+                href="https://piuspk.github.io/sorting_visualiszer/"
+                className="btn-website"
+              >
                 <FaExternalLinkAlt /> Website
               </a> */}
             </div>
           </div>
 
-          <div className="project">
-            <h3>RMQ Implementation Using Sparse Table</h3>
-            <p>
-              The project implements RMQ (Range Minimum/Maximum Query) using the
-              Sparse Table, a data structure with efficient O(1) runtime for
-              solving static range query problems like minimum and maximum
-              queries.
-            </p>
-            <div className="buttons-container">
-              <a
-                href="https://github.com/piuspk/cs201_project"
-                className="btn-github"
-              >
-                <FaGithub /> GitHub
-              </a>
-              {/* <a href="#" className="btn-website">
-                <FaExternalLinkAlt /> Website
-              </a> */}
-            </div>
-          </div>
+
+
+
         </div>
       </div>
     </section>

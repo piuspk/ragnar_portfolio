@@ -14,14 +14,14 @@ const Header = () => {
         <TypeAnimation
           className="typed-text"
           sequence={[
+            "Software Engineer",2000,
             "Web Developer",
             2000,
             "Graphic Designer",
             2000,
             "Photographer",
             2000,
-            "Web Designer",
-            2000,
+
           ]}
           wrapper="span"
           cursor={true}
