@@ -10,7 +10,7 @@ const Header = () => {
       
       <div className="main-info">
         <h1>Hello👋! I am Piyush</h1>
-        <h6>CSE Undergraduate at IIT Ropar🎓</h6>
+        <h6>CSE Graduated from IIT Ropar'25🎓</h6>
         <TypeAnimation
           className="typed-text"
           sequence={[
