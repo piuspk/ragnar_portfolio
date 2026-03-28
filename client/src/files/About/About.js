@@ -16,7 +16,7 @@ const About = () => {
             Outside of tech, I’m passionate about photography, editing, and graphic design.
           </p>
 
-          <div class="circular--portrait"> <img src={aboutImage} /> </div>
+          <div class="circular--portrait"> <img src={aboutImage} alt="Profile picture" /> </div>
         </div>
       </div>
     </section>
